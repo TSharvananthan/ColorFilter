@@ -1,5 +1,4 @@
 import cv2
-import imutils
 import os
 import argparse
 from tqdm import trange

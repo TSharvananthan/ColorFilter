@@ -1,5 +1,3 @@
-- cv2
-- imutils
-- os
-- argparse
-- tqdm
+cv2
+argparse
+tqdm
